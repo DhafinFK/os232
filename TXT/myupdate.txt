@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-OS232W01
-=======
 OS232W02
->>>>>>> d18bf4b (finished week 2 assignment without log)
