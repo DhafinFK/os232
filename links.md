@@ -60,6 +60,7 @@ This is a 3+ hour long video on the mighty and (so far) unkillable language C. <
 
 * [A trust worthy reference to file systems](https://www.geeksforgeeks.org/file-systems-in-operating-system/) <br>
 As you know geeks for geeks is a trusted website. It's from way back when. And they made a website page about file systems. enjoy!
+<hr>
 
 * [A shorter video on c](https://www.youtube.com/watch?v=U3aXWizDbQ4) <br>
 Since I've attached in a such a (subjectively) long video on C, As always here's an entertaining video. "C in 100 seconds"
