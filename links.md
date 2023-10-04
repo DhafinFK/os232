@@ -65,3 +65,25 @@ As you know geeks for geeks is a trusted website. It's from way back when. And t
 * [A shorter video on c](https://www.youtube.com/watch?v=U3aXWizDbQ4) <br>
 Since I've attached in a such a (subjectively) long video on C, As always here's an entertaining video. "C in 100 seconds"
 <hr>
+
+--WEEK 4--
+
+* [Basics of Virtual Memory by MIT](https://youtu.be/8yO2FBBfaB0?si=pRrgx5_KojdlE_8F) <br>
+MIT is such a big powerhouse in it education so I'm sure there are things inside the video that all of us can learn from that video
+<hr>
+
+* [Virtual Memory Article from The Legendary GeeksforGeeks](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br>
+again, from geeksforgeeks an epic and legendary website. the article explains the whole what virutal memory is. Also providing illustrations to help understand
+<hr>
+
+* [Learning resource from GitHub](https://github.com/topics/operating-system-learning) <br>
+Here's a github page that discusses the topic of operating systems. You can find so many cheatsheets and references for learning operating systems
+<hr>
+
+* [Learning C from GitHub](https://github.com/topics/learning-c) <br>
+Like the previous link, here's another GitHub page, but this time it's about the C programming language (I hope to learn it deeper someday)
+<hr>
+
+* [Short entertaining vid as usual](https://www.youtube.com/watch?v=h7gf5M04hdg) <br>
+As always I'll always provide you with an entertaining video or two related to operating systems. This time it's a short and entertaining video about an unconventional operating system called "TempleOS" which is cool, because it uses the holy c programming language another unique language.
+<hr>
