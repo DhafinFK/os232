@@ -87,3 +87,17 @@ Like the previous link, here's another GitHub page, but this time it's about the
 * [Short entertaining vid as usual](https://www.youtube.com/watch?v=h7gf5M04hdg) <br>
 As always I'll always provide you with an entertaining video or two related to operating systems. This time it's a short and entertaining video about an unconventional operating system called "TempleOS" which is cool, because it uses the holy c programming language another unique language.
 <hr>
+
+--WEEK 5--
+
+* [Memory management](https://www.geeksforgeeks.org/memory-management-in-operating-system/) <br>
+Okay guys now since this week is related to memory, here's a little article from geeks for geeks about memory management.
+<hr>
+
+* [chap 10 exercises](https://www.studocu.com/row/document/xian-jiaotong-university/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/operating-system-concepts-exercise10/24296566) <br>
+A little something out of the usual, here's a link to some exercise related to chapter 10
+<hr>
+
+* [Usual entertaining video](https://www.youtube.com/watch?v=fkGCLIQx1MI) <br>
+As usual, I will provide this page with an entertaining link about operating systems. We can't be too serious all the time right?
+<hr>
