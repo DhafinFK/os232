@@ -122,3 +122,17 @@ A cool article that explains symmetric and asymmetric key encription in depth
 
 * [bash video by fireship](https://www.youtube.com/watch?v=I4EWvMFj37g) <br>
 as Usual I try to bring some entertainment to my weekly links (we can't be too serious all the time right?)
+<hr>
+
+### -WEEK 7--
+
+* [Synchronization: an ARticle](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
+here's a nice article about synchronization
+<hr>
+
+* [BAM A FULL PLAYLIST](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
+That's a whole playlist for you to enjoy, it's about synchronization btw
+
+* [an entertaining video about linux filesystem](https://www.youtube.com/watch?v=42iQKuQodW4)
+as always a fun video
+<hr>
