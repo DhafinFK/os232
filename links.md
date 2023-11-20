@@ -124,16 +124,25 @@ A cool article that explains symmetric and asymmetric key encription in depth
 as Usual I try to bring some entertainment to my weekly links (we can't be too serious all the time right?)
 <hr>
 
-### -WEEK 7--
+### --WEEK 7--
 
 * [Synchronization: an ARticle](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
 here's a nice article about synchronization
 <hr>
 
-* [BAM A FULL PLAYLIST](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
+* [BAM A FULL PLAYLIST](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2) <br>
 That's a whole playlist for you to enjoy, it's about synchronization btw
 <hr>
 
-* [an entertaining video about linux filesystem](https://www.youtube.com/watch?v=42iQKuQodW4)
+* [an entertaining video about linux filesystem](https://www.youtube.com/watch?v=42iQKuQodW4) <br>
 as always a fun video
+<hr>
+
+### --WEEK 8--
+* [LFS GUIDE FULL](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCQChvKRDhF-cvsguDfd-y2) <br>
+a full guide on lfs... it helps a lot
+<hr> 
+
+* [what is it for tho?](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026#:~:text=Linux%20From%20Scratch%20emphasizes%20understanding,the%20Linux%20system's%20inner%20workings.)
+If you ever wondered what it's actually for
 <hr>
