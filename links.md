@@ -143,6 +143,6 @@ as always a fun video
 a full guide on lfs... it helps a lot
 <hr> 
 
-* [what is it for tho?](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026#:~:text=Linux%20From%20Scratch%20emphasizes%20understanding,the%20Linux%20system's%20inner%20workings.)
+* [what is it for tho?](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026#:~:text=Linux%20From%20Scratch%20emphasizes%20understanding,the%20Linux%20system's%20inner%20workings.) <br>
 If you ever wondered what it's actually for
 <hr>
