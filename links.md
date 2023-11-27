@@ -146,3 +146,21 @@ a full guide on lfs... it helps a lot
 * [what is it for tho?](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026#:~:text=Linux%20From%20Scratch%20emphasizes%20understanding,the%20Linux%20system's%20inner%20workings.) <br>
 If you ever wondered what it's actually for
 <hr>
+
+### --WEEK 9--
+
+* [symbolic links](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/) <br>
+symbolic links in linux!
+<hr>
+
+* [Another link to a symbolic link material](https://www.geeksforgeeks.org/how-to-symlink-a-file-in-linux/) <br>
+symbolic links in linux, more!
+<hr>
+
+* [Lfs](https://www.linuxfromscratch.org/) <br>
+Official lfs link!
+<hr>
+
+* [PERL](https://archive.flossmanuals.net/command-line/perl.html) <br>
+a link related to perl since it's installed in linux (lfs)
+<hr>
